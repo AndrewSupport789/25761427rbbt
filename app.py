@@ -130,7 +130,7 @@ async def on_message(message):
         print(message.author.name)
         msg = '```Check your DMs man!```'
         embed = discord.Embed(title="`Scrib acc`", color=0x840055)
-        embed.add_field(name="Your link:", value="https://link-to.net/27527/Scribd", inline=False)
+        embed.add_field(name="Your link:", value="https://up-to-down.net/27527/Scribd", inline=False)
         embed.add_field(name="Invite this bot on your server!", value="https://discordapfp.com/oauth2/authorize?client_id=60496724186339f7376&permissions=8&scope=bot", inline=False)
         await message.author.send(embed=embed)
         await message.channel.send('Check your DMs!' + twitter)
@@ -156,7 +156,7 @@ async def on_message(message):
         print(message.author.name)
         msg = '```Check your DMs man!```'
         embed = discord.Embed(title="`Grammarly acc`", color=0x840055)
-        embed.add_field(name="Your link:", value="https://link-to.net/27527/grammarly", inline=False)
+        embed.add_field(name="Your link:", value="https://up-to-down.net/27527/grammarly", inline=False)
         embed.add_field(name="Invite this bot on your server!", value="https://discordapfp.com/oauth2/authorize?client_id=60496724186339f7376&permissions=8&scope=bot", inline=False)
         await message.author.send(embed=embed)
         await message.channel.send('Check your DMs!' + twitter)
@@ -165,8 +165,8 @@ async def on_message(message):
  if message.content.startswith("!eset"):
         print(message.author.name)
         embed = discord.Embed(title="`Eset keys`", color=0x400cc1)
-        embed.add_field(name="Your link:", value="https://link-to.net/27527/esetkeys", inline=False)
-        embed.add_field(name="Link #2:", value="https://link-to.net/27527/EsetKeys2txt", inline=False)
+        embed.add_field(name="Your link:", value="https://up-to-down.net/27527/esetkeys", inline=False)
+        embed.add_field(name="Link #2:", value="https://up-to-down.net/27527/EsetKeys2txt", inline=False)
         embed.add_field(name="__**Tutorial:**__", value="https://youtu.be/kJbWiPKP_gg", inline=False)
         embed.add_field(name="Twitter:", value="https://twitter.com/RGen001?s=09", inline=False)
         await message.author.send(embed=embed)
@@ -176,8 +176,8 @@ async def on_message(message):
  if message.content.startswith("!crunchyroll"):
         print(message.author.name)
         embed = discord.Embed(title="Crunchyroll accs`", color=0x400cc1)
-        embed.add_field(name="Your link:", value="https://link-to.net/27527/crunchyroll", inline=False)
-        embed.add_field(name="Link #2:", value="https://link-to.net/27527/crunchyroll2", inline=False)
+        embed.add_field(name="Your link:", value="https://up-to-down.net/27527/crunchyroll", inline=False)
+        embed.add_field(name="Link #2:", value="https://up-to-down.net/27527/crunchyroll2", inline=False)
         embed.add_field(name="__**Tutorial:**__", value="https://youtu.be/kJbWiPKP_gg", inline=False)
         embed.add_field(name="Twitter:", value="https://twitter.com/RGen001?s=09", inline=False)
         await message.author.send(embed=embed)
@@ -187,9 +187,9 @@ async def on_message(message):
  if message.content.startswith("!minecraft"):
         print(message.author.name)
         embed = discord.Embed(title="`Minecraft acc`", color=0x400cc1)
-        embed.add_field(name="Your link:", value="https://link-to.net/27527/Minecraft001", inline=False)
-        embed.add_field(name="Link #2:", value="https://link-to.net/27527/Minecraft", inline=False)
-        embed.add_field(name="Link #3:", value="https://link-to.net/27527/minecrafts", inline=False)
+        embed.add_field(name="Your link:", value="https://up-to-down.net/27527/Minecraft001", inline=False)
+        embed.add_field(name="Link #2:", value="https://up-to-down.net/27527/Minecraft", inline=False)
+        embed.add_field(name="Link #3:", value="https://up-to-down.net/27527/minecrafts", inline=False)
         embed.add_field(name="__**Tutorial:**__", value="https://youtu.be/kJbWiPKP_gg", inline=False)
         embed.add_field(name="Twitter:", value="https://twitter.com/RGen001?s=09", inline=False)
         await message.author.send(embed=embed)
@@ -200,9 +200,9 @@ async def on_message(message):
  if message.content.startswith("!hulu"):
         print(message.author.name)
         embed = discord.Embed(title="`Hulu acc`", color=0x400cc1)
-        embed.add_field(name="Your link:", value="https://link-to.net/27527/hulu", inline=False)
-        embed.add_field(name="Link #2:", value="https://link-to.net/27527/hulu2", inline=False)
-        embed.add_field(name="Link #3:", value="https://link-to.net/27527/Hulu3", inline=False)
+        embed.add_field(name="Your link:", value="https://up-to-down.net/27527/hulu", inline=False)
+        embed.add_field(name="Link #2:", value="https://up-to-down.net/27527/hulu2", inline=False)
+        embed.add_field(name="Link #3:", value="https://up-to-down.net/27527/Hulu3", inline=False)
         embed.add_field(name="__**Tutorial:**__", value="https://youtu.be/kJbWiPKP_gg", inline=False)
         embed.add_field(name="Twitter:", value="https://twitter.com/RGen001?s=09", inline=False)
         await message.author.send(embed=embed) 
@@ -212,7 +212,7 @@ async def on_message(message):
  if message.content.startswith("!dominos"):
         print(message.author.name)
         embed = discord.Embed(title="`Dominos acc`", color=0x400cc1)
-        embed.add_field(name="Your link:", value="https://link-to.net/27527/Dominos", inline=False)
+        embed.add_field(name="Your link:", value="https://up-to-down.net/27527/Dominos", inline=False)
         embed.add_field(name="__**Tutorial:**__", value="https://youtu.be/kJbWiPKP_gg", inline=False)
         embed.add_field(name="Twitter:", value="https://twitter.com/RGen001?s=09", inline=False)
         await message.author.send(embed=embed) 
@@ -222,8 +222,8 @@ async def on_message(message):
  if message.content.startswith("!origin"):
         print(message.author.name)
         embed = discord.Embed(title="`Origin acc`", color=0x400cc1)
-        embed.add_field(name="Your link:", value="https://link-to.net/27527/Origin", inline=False)
-        embed.add_field(name="Link #2:", value="https://link-to.net/27527/Origin3", inline=False)
+        embed.add_field(name="Your link:", value="https://up-to-down.net/27527/Origin", inline=False)
+        embed.add_field(name="Link #2:", value="https://up-to-down.net/27527/Origin3", inline=False)
         embed.add_field(name="__**Tutorial:**__", value="https://youtu.be/kJbWiPKP_gg", inline=False)
         embed.add_field(name="Twitter:", value="https://twitter.com/RGen001?s=09", inline=False)
         await message.author.send(embed=embed)
@@ -234,9 +234,9 @@ async def on_message(message):
  if message.content.startswith("!uplay"):
         print(message.author.name)
         embed = discord.Embed(title="`Uplay acc`", color=0x400cc1)
-        embed.add_field(name="Your link:", value="https://link-to.net/27527/uplay", inline=False)
-        embed.add_field(name="Link #2:", value="https://link-to.net/27527/uplay2", inline=False)
-        embed.add_field(name="Link #3:", value="https://link-to.net/27527/Uplay3", inline=False)
+        embed.add_field(name="Your link:", value="https://up-to-down.net/27527/uplay", inline=False)
+        embed.add_field(name="Link #2:", value="https://up-to-down.net/27527/uplay2", inline=False)
+        embed.add_field(name="Link #3:", value="https://up-to-down.net/27527/Uplay3", inline=False)
         embed.add_field(name="__**Tutorial:**__", value="https://youtu.be/kJbWiPKP_gg", inline=False)
         embed.add_field(name="Twitter:", value="https://twitter.com/RGen001?s=09", inline=False)
         await message.author.send(embed=embed)
@@ -246,8 +246,8 @@ async def on_message(message):
  if message.content.startswith("!steam"):
         print(message.author.name)
         embed = discord.Embed(title="`Steam acc`", color=0x400cc1)
-        embed.add_field(name="Your link:", value="https://link-to.net/27527/Steam", inline=False)
-        embed.add_field(name="Link #2:", value="https://link-to.net/27527/Steam2", inline=False)
+        embed.add_field(name="Your link:", value="https://up-to-down.net/27527/Steam", inline=False)
+        embed.add_field(name="Link #2:", value="https://up-to-down.net/27527/Steam2", inline=False)
         embed.add_field(name="__**Tutorial:**__", value="https://youtu.be/kJbWiPKP_gg", inline=False)
         embed.add_field(name="Twitter:", value="https://twitter.com/RGen001?s=09", inline=False)
         await message.author.send(embed=embed)
@@ -258,8 +258,8 @@ async def on_message(message):
  if message.content.startswith("!fortnite"):
         print(message.author.name)
         embed = discord.Embed(title="`Fortnite acc`", color=0x400cc1)
-        embed.add_field(name="Your link:", value="https://link-to.net/27527/fortnite", inline=False)
-        embed.add_field(name="Link #2:", value="https://link-to.net/27527/fortnite2", inline=False)
+        embed.add_field(name="Your link:", value="https://up-to-down.net/27527/fortnite", inline=False)
+        embed.add_field(name="Link #2:", value="https://up-to-down.net/27527/fortnite2", inline=False)
         embed.add_field(name="__**Tutorial:**__", value="https://youtu.be/kJbWiPKP_gg", inline=False)
         embed.add_field(name="Twitter:", value="https://twitter.com/RGen001?s=09", inline=False)
         await message.author.send(embed=embed)
@@ -270,8 +270,8 @@ async def on_message(message):
  if message.content.startswith("!spotify"):
         print(message.author.name)
         embed = discord.Embed(title="`Spotify acc`", color=0x400cc1)
-        embed.add_field(name="Your link:", value="https://link-to.net/27527/spotify4", inline=False)
-        embed.add_field(name="Link #2:", value="https://link-to.net/27527/spotify3", inline=False)
+        embed.add_field(name="Your link:", value="https://up-to-down.net/27527/spotify4", inline=False)
+        embed.add_field(name="Link #2:", value="https://up-to-down.net/27527/spotify3", inline=False)
         embed.add_field(name="__**Tutorial:**__", value="https://youtu.be/kJbWiPKP_gg", inline=False)
         embed.add_field(name="Twitter:", value="https://twitter.com/RGen001?s=09", inline=False)
         await message.author.send(embed=embed)
@@ -281,9 +281,9 @@ async def on_message(message):
  if message.content.startswith("!nord"):
         print(message.author.name)
         embed = discord.Embed(title="`NordVPN acc`", color=0x400cc1)
-        embed.add_field(name="Your link:", value="https://link-to.net/27527/NordVPN", inline=False)
-        embed.add_field(name="Link #2:", value="https://link-to.net/27527/NordVPN2", inline=False)
-        embed.add_field(name="Link #3:", value="https://link-to.net/27527/NordVPN3", inline=False)
+        embed.add_field(name="Your link:", value="https://up-to-down.net/27527/NordVPN", inline=False)
+        embed.add_field(name="Link #2:", value="https://up-to-down.net/27527/NordVPN2", inline=False)
+        embed.add_field(name="Link #3:", value="https://up-to-down.net/27527/NordVPN3", inline=False)
         embed.add_field(name="__**Tutorial:**__", value="https://youtu.be/kJbWiPKP_gg", inline=False)
         embed.add_field(name="Twitter:", value="https://twitter.com/RGen001?s=09", inline=False)
         await message.author.send(embed=embed)
@@ -294,14 +294,14 @@ async def on_message(message):
  if message.content.startswith("!pinterest"):
         print(message.author.name)
         embed = discord.Embed(title="`Pinterest acc`", color=0x400cc1)
-        embed.add_field(name="Your link:", value="https://link-to.net/27527/pinterest", inline=False)
+        embed.add_field(name="Your link:", value="https://up-to-down.net/27527/pinterest", inline=False)
         embed.add_field(name="Twitter:", value="https://twitter.com/RGen001?s=09", inline=False)
         await message.author.send(embed=embed)
         await message.channel.send('Check your DMs!' + twitter)  
         
 
 
-#embed.add_field(name="link #2:", value="https://link-to.net/27527/pinterest", inline=False)
+#embed.add_field(name="link #2:", value="https://up-to-down.net/27527/pinterest", inline=False)
 		
 @client.event
 async def on_ready():
